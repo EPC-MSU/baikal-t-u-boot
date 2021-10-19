@@ -213,6 +213,7 @@
 #define CONFIG_MTD_CMDLINE_PARTS
 #define CONFIG_MTD_DEVICE
 #define CONFIG_MTD_PARTITIONS
+#define CONFIG_CMD_SETEXPR    /* setexpr support */
 
 /*
  *-----------------------------------------------
